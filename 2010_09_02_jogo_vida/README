@@ -1,0 +1,24 @@
+Jogo da vida
+============
+
+Calcular a próxima geração do jogo da vida de Conway[1].
+
+Regras
+~~~~~~
+
+  - Célula viva com menos que duas vizinhas vivas, morre por subpopulação.
+  - Célula viva com mais de três vizinhas vivas, morre por superpopulação.
+  - Célula viva com duas ou três vizinhas vivas, vive até a próxima geração.
+  - Qualquer célular morta com três vizinhas vivas, se torna uma célula viva.
+
+Exemplo
+~~~~~~~
+
+Geração 1:    Geração 2:    Legenda
+........      ........      . - Célula morta
+....*...      ...**...      * - Célula viva
+...**...      ...**...
+........      ........
+
+[1] - http://en.wikipedia.org/wiki/Conway's_Game_of_Life
+

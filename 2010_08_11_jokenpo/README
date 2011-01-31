@@ -1,0 +1,11 @@
+Jokenpo
+=======
+
+Jokenpo é uma brincadeira japonesa, são dois jogadores que escolhem um dentre os três possíveis itens: Pedra, Papel e Tesoura.
+
+O objetivo é fazer um juiz de Jokenpo que dada a jogada do jogador dos dois jogadores informa o resultado da partida.
+
+As regras são as seguintes:
+- Pedra empata com Pedra e ganha de Tesoura
+- Tesoura empata com Tesoura e ganha de Papel
+- Papel empata com Papel e ganha de Pedra

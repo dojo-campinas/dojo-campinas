@@ -1,0 +1,22 @@
+Salvando tempo
+
+Dada um hora no formato "digital" 24 horas, retornar a versão "analógica" do horário.
+
+Exemplo:
+
+Entrada: 21:35
+
+Saída:
+
+                   o
+              o        o
+
+            o            o
+
+           h              o
+
+            o            o
+               
+              m       o
+                  o
+

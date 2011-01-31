@@ -1,0 +1,16 @@
+Escolhas
+========
+
+Calcular quantas formas há de se escolher k itens de um conjunto de n, onde a ordem não importa.
+
+Ou seja, cálculo do coeficiente Binomial ou combinatória:
+
+(n k) = n! / (k!(n-k)!)
+
+Em que n! = n*(n-1)*(n-2)*...*1:
+
+5! = 1 x 2 x 3 x 4 x 5 = 120
+
+Levar em consideração a simplificação entre fatoriais:
+
+(7 3) = 7! / (3!(7 - 3)!) = 7*6*5/3*2*1 = 35

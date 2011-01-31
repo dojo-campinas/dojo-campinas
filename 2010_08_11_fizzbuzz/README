@@ -1,0 +1,11 @@
+Fizzbuzz
+========
+
+Fizzbuzz é uma brincadeira de criança, um jogo pra ser realizado em uma roda, uma criança começa falando o número 1, a próxima 2, a próxima "fizz", a próxima 4, a próxima "buzz", quem errar saí da roda e recomeça a brincadeira.
+
+O objetivo é fazer um jogador de Fizzbuzz que dado o número sabe o que tem falar, as regras da brincadeira são:
+
+- Se o número for divísivel por 15 tem que falar "fizzbuzz"
+- Se o número for divísivel por 5 tem que falar "buzz"
+- Se o número for divísivel por 3 tem que falar "fizz"
+- Caso contrário fala o número da vez

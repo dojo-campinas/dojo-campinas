@@ -1,0 +1,13 @@
+Campo minado
+============
+
+Dado um campo minado com as posições das minas, retornar para as posições vazias, quantas minas são vizinhas à ela.
+
+Exemplo:
+
+Entrada        Saída        Legenda
+__*_           01*1         _ - Espaço disponível
+____           1221         * - Mina
+_*__           1*10
+____           1110
+
